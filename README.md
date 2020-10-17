@@ -1,5 +1,5 @@
-# simple-loading-screen
-The simplest loading screen! Just write two lines!
+# Simple Loading Screen
+The simplest loading screen. Just write two lines!
 
 # Usage
 
