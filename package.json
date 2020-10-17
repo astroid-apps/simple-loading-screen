@@ -1,0 +1,10 @@
+{
+  "name": "SimpleLoadingScreen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loading.js",
+  "scripts": {
+    "dev": "parcel watch ./src/loading.js -d ./dist/ --public-url ./ --no-cache --no-hmr",
+    "build": "parcel build ./src/loading.js -d ./dist/ --public-url ./ --no-cache"
+  }
+}
