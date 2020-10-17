@@ -1,7 +1,7 @@
 # Simple Loading Screen
-The simplest loading screen. Just write two lines!
+The simplest loading screen. Just write two lines! This script shows a loading screen until the window load event.
 
-最もシンプルなローディング画面です。2行で実装できます。
+最もシンプルなローディング画面です。2行で実装できます。Window loadイベントが発生するまでの間、ローディング画面を表示します。
 
 # Usage
 
