@@ -14,6 +14,8 @@ The simplest loading screen. Just write two lines!
    ```HTML
    <script>showLoadingScreen();</script>
    ```
+   
+# Example of full HTML.
 
 ```HTML
 <!doctype html>
