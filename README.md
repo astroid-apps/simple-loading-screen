@@ -1,5 +1,6 @@
 # Simple Loading Screen
 The simplest loading screen. Just write two lines!
+最もシンプルなローディング画面です。2行で実装できます。
 
 # Usage
 
