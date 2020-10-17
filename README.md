@@ -29,6 +29,7 @@ The simplest loading screen. Just write two lines!
 	<body>
 		<script>showLoadingScreen();</script>
 		
+		<!-- Some heavy image -->
 		<img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/73000/73884/world.topo.bathy.200411.3x5400x2700.jpg">
 		
 	</body>
