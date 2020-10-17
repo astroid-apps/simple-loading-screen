@@ -36,6 +36,6 @@ Example of full HTML.
 ```
 # Sample image
 
-![image](https://user-images.githubusercontent.com/73022530/96339821-ea4c2480-10d1-11eb-8e6a-e6462ed887fd.png)
+![sample](./sample.png)
 
 
