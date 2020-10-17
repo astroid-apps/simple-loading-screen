@@ -4,8 +4,10 @@ The simplest loading screen. Just write two lines!
 # Usage
 
 1. Please download the file "./dist/loading.js".
-1. Read with the script tag in the header part
+1. Read with the script tag in the header part.
+   ```<script src="loading.js"></script>```
 1. Execute showLoadingScreen() immediately after the body tag.
+   ```<script>showLoadingScreen();</script>```
 
 ```HTML
 <!doctype html>
