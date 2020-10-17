@@ -5,7 +5,7 @@ The simplest loading screen. Just write two lines!
 
 # Usage
 
-1. Please download the file "./dist/loading.js".
+1. Please download the file ```./dist/loading.js```.
 1. Read the file with the script tag in the header part.
    ```HTML
    <script src="loading.js"></script>
