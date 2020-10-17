@@ -7,7 +7,7 @@ The simplest loading screen! Just write two lines!
 1. Read with the script tag in the header part
 1. Execute showLoadingScreen() immediately after the body tag.
 
-```
+```HTML
 <!doctype html>
 <html lang="ja">
 	<head>
