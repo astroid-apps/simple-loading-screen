@@ -5,7 +5,7 @@ The simplest loading screen. Just read a 3.3KB JavaScript file and write two lin
 
 # Usage
 
-1. Please download the file [loading.js](./dist/loading.js).
+1. Please download the file [./dist/loading.js](./dist/loading.js).
 1. Read the file with the script tag in the header part.
 
    ```HTML
