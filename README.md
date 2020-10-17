@@ -3,6 +3,10 @@ The simplest loading screen
 
 # Usage
 
+1. Please download the file "./dist/loading.js".
+1. Read with the script tag in the header part
+1. Execute showLoadingScreen() immediately after the body tag.
+
 ```
 <!doctype html>
 <html lang="ja">
