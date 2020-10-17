@@ -10,7 +10,7 @@ The simplest loading screen. Just read a 3.3KB JavaScript file and write two lin
    ```HTML
    <script src="loading.js"></script>
    ```
-1. Execute showLoadingScreen() immediately after the ```<body>``` tag.
+1. Execute showLoadingScreen() immediately after the <body> tag.
    ```HTML
    <script>showLoadingScreen();</script>
    ```
