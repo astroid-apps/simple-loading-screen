@@ -15,8 +15,7 @@ The simplest loading screen. Just read a 3.3KB JavaScript file and write two lin
    <script>showLoadingScreen();</script>
    ```
    
-# Example of full HTML.
-
+Example of full HTML.
 ```HTML
 <!doctype html>
 <html lang="ja">
