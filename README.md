@@ -3,6 +3,10 @@ The simplest loading screen. Just read a 3.3KB JavaScript file and write two lin
 
 最もシンプルなローディング画面です。3.3KBのJavaScriptファイルを1個追加して、2行書けば実装できます。Window loadイベントが発生するまでの間、ローディング画面を表示します。
 
+# Demo
+
+https://astroid-apps.github.io/simple-loading-screen/dist/
+
 # Usage
 
 1. Please download the file [./dist/loading.js](./dist/loading.js).
