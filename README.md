@@ -36,7 +36,7 @@ Example of full HTML.
 	</body>
 </html>
 ```
-# Sample image
+# Sample Image
 
 ![sample](./sample.png)
 
