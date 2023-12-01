@@ -1,5 +1,5 @@
 # Simple Loading Screen
-The simplest loading screen. Just read a 3.3KB JavaScript file and write two lines! This script shows a loading screen until the window load event.
+The simplest loading screen. Just read a 2.7KB JavaScript file and write two lines! This script shows a loading screen until the window load event.
 
 最もシンプルなローディング画面です。2.7KBのJavaScriptファイルを1個追加して、2行書けば実装できます。Window loadイベントが発生するまでの間、ローディング画面を表示します。
 
